@@ -304,6 +304,25 @@ include "connect.php";
                     </div>
                 </div>
             </div>
+
+            <div class="container_team">
+                <div class="card">
+                    <div class="imgBx">
+                        <img src="./images/team/Image - Kshitij Chaudhary.jpg">
+                    </div>
+                    <div class="contentBx">
+                        <h2>Kshitij Chaudhary</h2>
+                        <p>Hospitality</p>
+                        <div class="links">
+                        
+                        <div class="socialLinks">
+                            <a href="https://www.linkedin.com/in/kshitij-chaudhary-1392b4238"target="_blank"><i class="fa fa-linkedin social_icon" style="display:flex;"></i></a>
+                            <a href="mailto: kshitij8482@gmail.com"target="_blank"><i class="fa fa-envelope social_icon" style="display:flex;"></i></a>
+                        </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
            
             <div class="container_team">
                 <div class="card">
